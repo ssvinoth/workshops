@@ -277,6 +277,6 @@ You have completed lab exercise 1
 You have examined how to access and use VS Code.You have also examined all three components required to get started with Automation controller.  A credential, an inventory and a project.  In the next exercise we will look at job template.
 
 ---
-[Next Exercise](../2-first-playbook/README.md)
+[Next Exercise](../2-first-playbook/README-UI.md)
 
-[Click here to return to the Ansible Network Automation Workshop](../README.md)
+[Click here to return to the Ansible Network Automation Workshop](../README-UI.md)

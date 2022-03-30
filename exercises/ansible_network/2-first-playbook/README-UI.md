@@ -260,4 +260,4 @@ You have completed lab exercise 2
 ---
 [Previous Exercise](../1-explore/README-UI.md) | [Next Exercise](../3-facts/README-UI.md)
 
-[Click here to return to the Ansible Network Automation Workshop](../README.md)
+[Click here to return to the Ansible Network Automation Workshop](../README-UI.md)

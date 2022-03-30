@@ -163,4 +163,4 @@ You have completed lab exercise 6
 ---
 [Previous Exercise](../5-explore-controller/README-UI.md) | [Next Exercise](../7-controller-survey/README-UI.md)
 
-[Click here to return to the Ansible Network Automation Workshop](../README.md)
+[Click here to return to the Ansible Network Automation Workshop](../README-UI.md)

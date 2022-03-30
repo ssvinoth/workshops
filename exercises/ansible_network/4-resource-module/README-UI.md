@@ -372,4 +372,4 @@ In the next exercise we will start using Automation controller.
 ---
 [Previous Exercise](../3-facts/README-UI.md) | [Next Exercise](../5-explore-controller/README-UI.md)
 
-[Click here to return to the Ansible Network Automation Workshop](../README.md)
+[Click here to return to the Ansible Network Automation Workshop](../README-UI.md)

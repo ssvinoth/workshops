@@ -214,4 +214,4 @@ You have completed lab exercise 7
 ---
 [Previous Exercise](../6--controller-job-template/README-UI.md) | [Next Exercise](../8-controller-rbac/README-UI.md)
 
-[Click here to return to the Ansible Network Automation Workshop](../README.md)
+[Click here to return to the Ansible Network Automation Workshop](../README-UI.md)

@@ -156,4 +156,4 @@ You have now examined all three components required to get started with Automati
 ---
 [Previous Exercise](../4-resource-module/README-UI.md) | [Next Exercise](../6-controller-job-template/README-UI.md)
 
-[Click here to return to the Ansible Network Automation Workshop](../README.md)
+[Click here to return to the Ansible Network Automation Workshop](../README-UI.md)

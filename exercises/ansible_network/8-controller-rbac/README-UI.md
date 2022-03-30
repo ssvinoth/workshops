@@ -245,4 +245,4 @@ You have completed lab exercise 8
 ---
 [Previous Exercise](../7-controller-survey/README-UI.md) | [Next Exercise](../9-controller-workflow/README-UI.md)
 
-[Click here to return to the Ansible Network Automation Workshop](../README.md)
+[Click here to return to the Ansible Network Automation Workshop](../README-UI.md)

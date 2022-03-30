@@ -234,4 +234,4 @@ You have completed lab exercise 3
 ---
 [Previous Exercise](../2-first-playbook/README-UI.md) | [Next Exercise](../4-resource-module/README-UI.md)
 
-[Click here to return to the Ansible Network Automation Workshop](../README.md)
+[Click here to return to the Ansible Network Automation Workshop](../README-UI.md)
