@@ -25,8 +25,8 @@ This exercise will cover:
 
 * examining an existing Ansible Playbook
 * executing an Ansible Playbook on the controller
-* check mode (the `--check` parameter)
-* verbose mode (the `--verbose` or `-v` parameter)
+* check mode 
+* verbose mode 
 
 ## Guide
 
@@ -182,7 +182,7 @@ snmp-server community ansible-test RO
 
 ![vscode run task menu](images/vscode_terminal_run_task_menu.jpg)
 
-4. Select the `ansible-project-sync` task from the list shown.This project syncs the playbooks to the controller `Student Network Automation Project` folder. 
+4. Select the `ansible-project-sync` task from the list shown.This syncs the playbooks to the controller `Student Network Automation Project` (/var/lib/awx/projects/student_network_workshop) folder. 
 
 ![vscode run task ansible project sync](images/vscode_run_task_ansible_project_sync.jpg)
 
