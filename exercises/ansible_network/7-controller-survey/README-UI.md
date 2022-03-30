@@ -190,12 +190,11 @@ Let the job run to completion.  Let the instructor know if anything fails.
 
    The banner will appear on login.  Here is an example from above:
 
-   ```
+   ```sh
    [student1@ansible-1 ~]$ ssh rtr1
-  Warning: Permanently added 'rtr1,3.237.253.154' (RSA) to the list of known hosts.
-
-  This router was configured by Ansible
-  ```
+   Warning: Permanently added 'rtr1,3.237.253.154' (RSA) to the list of known hosts.
+   This router was configured by Ansible
+   ```
 
 2. Verify on additional routers
 
